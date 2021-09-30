@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Amanda Dahl
+Things I like:
+## Nature
+## Trying new food
+## Travel
